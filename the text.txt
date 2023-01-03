@@ -1,1 +1,4 @@
-hamburger patty
+christmas update time, kinda just added some basic stuff 
+cosmetics are kinda working (maybe)
+name system works and saves
+voices might still be broken, no idea how to fix but im trying
