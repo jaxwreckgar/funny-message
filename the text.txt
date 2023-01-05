@@ -5,4 +5,4 @@ game looks pretty stable now, guess its time to actually list what i did.
 + added christmas lights
 - removed most of bingus burgers, kept the pit
 ~ changed the hands a bit
-next update will probably replace the pit with a slide
+next update will probably change the pit a bit
