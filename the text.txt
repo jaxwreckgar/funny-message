@@ -1,7 +1,3 @@
-hey, just put out a quick fix to cover that vent
-+ added 5 different servers with a 20 person player cap
-+ added a new spawn
-+ added the gun back
-+ changed the pit to a dungeon
-+ added reports (buggy)
-+ on & off switch for tv
+accidentally just made the massive hammer public, im so clumsy
+some people got bans to get rid of hammers from normal flops
+
