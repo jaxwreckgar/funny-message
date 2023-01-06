@@ -1,8 +1,7 @@
-game looks pretty stable now, guess its time to actually list what i did.
-+ added cosmetics, obviously
-+ added moderator cosmetics to clarify who's who
-+ added a name system
-+ added christmas lights
-- removed most of bingus burgers, kept the pit
-~ changed the hands a bit
-next update will probably change the pit a bit
+hey, just put out a quick fix to cover that vent
++ added 5 different servers with a 20 person player cap
++ added a new spawn
++ added the gun back
++ changed the pit to a dungeon
++ added reports (buggy)
++ on & off switch for tv
