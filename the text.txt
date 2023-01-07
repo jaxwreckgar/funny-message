@@ -1,3 +1,2 @@
-accidentally just made the massive hammer public, im so clumsy
-some people got bans to get rid of hammers from normal flops
-
+this most recent update was to fix some out of bounds issues and a few backend things
+there's something new in the caves but its not that important 
