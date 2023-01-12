@@ -1,4 +1,7 @@
-this most recent update was to fix some out of bounds issues and a few backend things
-there's something new in the caves but its not that important 
-
-next update might be in a while, im going to redo the current cosmetic setup. will probably include currency.
+new build woohoo
++ cosmetic changes
++ currency
++ map deloading & loading 
++ something else probably
+also fixed some holes in caves maybe idk i forgot tbh
+added a few new exclusive cosmetics
