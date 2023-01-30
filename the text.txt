@@ -1,7 +1,5 @@
-new build woohoo
-+ cosmetic changes
-+ currency
-+ map deloading & loading 
-+ something else probably
-also fixed some holes in caves maybe idk i forgot tbh
-added a few new exclusive cosmetics
+minor update
++ new sword cosmetic
+~ moved mirror to shop
++ added some more sounds (you'll know if you hear it)
++ something else probably idk
