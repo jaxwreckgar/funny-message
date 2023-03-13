@@ -1,5 +1,7 @@
-minor update
-+ new sword cosmetic
-~ moved mirror to shop
-+ added some more sounds (you'll know if you hear it)
-+ something else probably idk
+small update
++ brought back bingus burgers
++ darkroom
++ new skybox
++ map music
+~ cold pit now hidden behind secret
+- got rid of original pit for now
