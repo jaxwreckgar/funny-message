@@ -1,7 +1,9 @@
 small update
-+ brought back bingus burgers
-+ darkroom
-+ new skybox
-+ map music
-~ cold pit now hidden behind secret
-- got rid of original pit for now
++ wind
++ made movement a bit faster
++ vibration!!!!!
++ computer tab test
++ access routes
++ zero gravity 
++ made it easier to tell if you've activated part of the pit secret
+~ reverted cold pit to old pit
