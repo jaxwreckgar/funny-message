@@ -1,9 +1,8 @@
-small update
-+ wind
-+ made movement a bit faster
-+ vibration!!!!!
-+ computer tab test
-+ access routes
-+ zero gravity 
-+ made it easier to tell if you've activated part of the pit secret
-~ reverted cold pit to old pit
+minor update
++ walls as a temp fix to texture issue
++ new cosmetic, idk what it is tbh
+- cold pit
++ old pit!!!! woooooo
++ slight speed boost
+
+sorry abt those texture / collider issues
