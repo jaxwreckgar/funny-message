@@ -1,8 +1,7 @@
-minor update
-+ walls as a temp fix to texture issue
-+ new cosmetic, idk what it is tbh
-- cold pit
-+ old pit!!!! woooooo
-+ slight speed boost
-
-sorry abt those texture / collider issues
+hey guys
+basically im done with this
+dont really feel like developing a game anymore
+ill leave the servers up until they fail or whatever idk
+discord server no longer exists so dont try joining it
+i might make another update later but that's up to chance
+sayonara
